@@ -14,9 +14,9 @@ function App() {
       <BrowserRouter>
       <Header/>
       <Routes>
-      <Route path="/mon-app2/" element={<Home/>}/>
-      <Route path="/mon-app2/gallery" element={<Gallery/>}/>
-      <Route path="/mon-app2/contact" element={<Contact/>}/>
+      <Route path="/mon_app_2/" element={<Home/>}/>
+      <Route path="/mon_app_2/gallery" element={<Gallery/>}/>
+      <Route path="/mon_app_2/contact" element={<Contact/>}/>
       </Routes>
       </BrowserRouter>
       <Footer/>
